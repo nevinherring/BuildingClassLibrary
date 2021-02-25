@@ -1,0 +1,9 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb

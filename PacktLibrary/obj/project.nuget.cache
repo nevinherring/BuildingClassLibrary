@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cULCSEMk77And09mr1F04NrWBSaptkzOGlZyegZUNtAG6NzBT3Nh96VbiuCzHc0Ga5IHb96ILj9nWVIxNbGNmA==",
+  "success": true,
+  "projectFilePath": "/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter05/PacktLibrary/PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/herringfamily/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
