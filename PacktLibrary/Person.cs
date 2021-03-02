@@ -9,5 +9,16 @@ namespace Packt.Shared
         public string Name;
         public DateTime DateOfBirth;
 
+        // methods
+        public void WriteToConsole(string text)
+        {
+            WriteLine(text);
+        }
+
+        public string GetOrignin()
+        {
+            return "stuff";
+        }
+
     }
 }
