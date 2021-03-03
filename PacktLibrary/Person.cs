@@ -30,6 +30,12 @@ namespace Packt.Shared
             Name = "Unknown";
             Instantiated = DateTime.Now;
         }
+        public Person(string initialName, string homePlanet)
+        {
+            Name = initialName;
+            HomePlanet = homePlanet;
+            Instantiated = DateTime.Now;
+        }
 
         // methods
         public void WriteToConsole(string text)
