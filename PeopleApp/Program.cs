@@ -46,6 +46,8 @@ namespace PeopleApp
             );
             WriteLine($"{bob.Name} is a {Person.Species}");
 
+            WriteLine($"{bob.Name} was born on {bob.HomePlanet}");
+
             BankAccount.InterestRate = 0.012M; // store a shared value
             var jonesAccount = new BankAccount();
             jonesAccount.AccountName = "Mrs. Jones";
@@ -60,6 +62,14 @@ namespace PeopleApp
             WriteLine(format: "{0} earned {1:C} interest",
             arg0: gerrierAccount.AccountName,
             arg1: gerrierAccount.Balance * BankAccount.InterestRate
+            );
+
+            var blankPerson = new Person();
+            WriteLine(format:
+                "{0} of {1} was created at {2:hh:mm:ss} on a {2:dddd}.",
+                arg0: blankPerson.Name,
+                arg1: blankPerson.HomePlanet,
+                arg2: blankPerson.Instantiated
             );
         }
     }
