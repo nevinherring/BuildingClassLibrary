@@ -14,6 +14,8 @@ namespace Packt.Shared
 
         public WondersOfTheAncientWorld BucketList;
 
+        public List<Person> Children = new List<Person>();
+
         // methods
         public void WriteToConsole(string text)
         {
