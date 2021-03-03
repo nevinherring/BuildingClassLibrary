@@ -44,6 +44,8 @@ namespace PeopleApp
                 arg0: alice.Name,
                 arg1: alice.DateOfBirth
             );
+            WriteLine($"{bob.Name} is a {Person.Species}");
+
             BankAccount.InterestRate = 0.012M; // store a shared value
             var jonesAccount = new BankAccount();
             jonesAccount.AccountName = "Mrs. Jones";
